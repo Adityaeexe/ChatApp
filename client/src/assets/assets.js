@@ -22,6 +22,7 @@ import pic4 from './pic4.png'
 import img1 from './img1.jpg'
 import img2 from './img2.jpg'
 import logoVideo from '../assets/logo_iconvid.mp4';
+import Bgimage from './Bgimage.svg'
 
 
 const assets = {
@@ -36,7 +37,7 @@ const assets = {
     menu_icon,
     arrow_icon,
     code,
-    bgImage,
+    Bgimage,
     profile_martin,
     logoVideo
 }
